@@ -1,11 +1,11 @@
-# DataVerse-5.0---Analytics-Case-Study
+# DataVerse-5.0 - Analytics-Case-Study
 
 ## Case Study: Intellectual Property (IP) Trends and Business Impact in India (2023-2024)
 ### Background:
 Legal Mitra, a growing legal advisory firm specializing in Intellectual Property (IP)
 rights, has been instrumental in assisting startups and businesses in securing trademarks,
-patents, and copyrights. A s India continues to develop as an innovation-driven
-economy, the protection of intellectual assets has become increasingly vital. This
+patents, and copyrights. As India continues to develop as an innovation-driven
+economy, the protection of intellectual assets has become increasingly vital. This 
 dataset comprises a comprehensive record of IP cases filed across multiple Indian states
 during 2023 and 2024, offering a detailed foundation for examining filing patterns,
 approval rates, enforcement costs, and financial implications.
