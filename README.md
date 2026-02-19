@@ -27,3 +27,9 @@ SaaS companies, small business owners.
 brand security, and market differentiation.
 • Define Key Performance Indicators (KPIs) for lead generation and business
 growth
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="[https://tejaswinisamanta.github.io/assets/images/car%20sales%20analysis%20dashboard.png](https://tejaswinisamanta.github.io/assets/images/IP%20Rights%20Dashboard.png
+)" alt="Image 1" width="800">
+</div>
